@@ -1,7 +1,10 @@
-- [Title] - World News System! - [Date] - 2026-04-24 -
-- [Brief] -
+[Title]
+World News System!
+[Date]
+2026-04-24
+[Brief]
 A controversial and shocking innovation.
-- [Body] -
+[Body]
 In a move that many critics are calling "outrageous", local exotic rubber-like creature Icyvarix has introduced a news feed into their worlds.  Their stated goal is to provide a convenient location for both changelogs and creative updates, but many are skeptical.
 
 It remains to be seen what the destiny of this nascent idea holds.  Something so innovative and unprecedented almost certainly carries significant risk.  This is undeniably something we will all have to keep an eye on, to see how such bold moves pan out for our local noodle dragon.
