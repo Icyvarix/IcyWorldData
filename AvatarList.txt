@@ -3,10 +3,23 @@
 
 [ Vector Noodle : avtr_43f7ac7c-cd08-4b4d-b64d-a28784576e54 : Icyvarix : PC+Quest : None : Nardotaur, Pooltoy, Taur, Nardoragon ]
 Avatar Base: Nardotaur 2.0 by Laser Raptor, a kitbash of the Nardoragon and Dragon Puppet
-Everyone's favorite pool noodle, ready to give rides to friends!
 
 Pooltoy pack available on Gumroad!  pooltoy-avatars.icyvarix.com
-Nardotaur available on the Laser's VRC Creations discord server (https://discord.gg/sCkY5cFCVT) for owners of the Nardoragon and Dragon Puppet.
+
+[ Pooltoy Spiri'vali : avtr_74cbeece-516c-4609-95ad-671dca2bc94b : Icyvarix : PC : None : Spiri'vali, Pooltoy, Avali ]
+Avatar Base: Spiri'vali by Hiyu
+
+Pooltoy edit available on Gumroad!  pooltoy-avatars.icyvarix.com
+
+[ Rubber Spiri'vali : avtr_1160fd5a-2417-4086-b523-34a855d26305 : Icyvarix : PC : None : Spiri'vali, Rubber, Avali ]
+Avatar Base: Spiri'vali by Hiyu
+
+Derived from the pooltoy edit available on Gumroad!  pooltoy-avatars.icyvarix.com
+
+[ Plushie Spiri'vali : avtr_2f4e6071-a217-49ba-9a49-908c4867c84f : Icyvarix : PC : None : Spiri'vali, Plushie, Avali ]
+Avatar Base: Spiri'vali by Hiyu
+
+Derived from the pooltoy edit available on Gumroad!  pooltoy-avatars.icyvarix.com
 
 [ Pooltoy Orca Novakkor : avtr_4fb13e9d-a99d-433e-a3ee-cd2338d33bff : Icyvarix : PC : None : Novakkor, Pooltoy, Novabeast, Rikkor, Orca ]
 Avatar Base: Novakkor by Adjerry, a kitbash of the Novabeast and Rikkor
@@ -15,11 +28,6 @@ Avatar Base: Novakkor by Adjerry, a kitbash of the Novabeast and Rikkor
 Avatar Base: Nardoragon by Nardo
 
 Edit available in the nardo-mesh-edits channel of the Nardo's World discord server!
-
-[ Pooltoy Spiri'vali : avtr_74cbeece-516c-4609-95ad-671dca2bc94b : Icyvarix : PC : None : Spiri'vali, Pooltoy, Avali ]
-Avatar Base: Spiri'vali by Hiyu
-
-Pooltoy edit available on Gumroad!  pooltoy-avatars.icyvarix.com
 
 [ Pooltoy Kobodal : avtr_f9d8c698-d9e2-4831-ba7d-da06fd0eb4b6 : Icyvarix : PC+Quest : None : Kobodal, Pooltoy ]
 Avatar Base: Kobodal by Nicoreda
